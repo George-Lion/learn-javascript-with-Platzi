@@ -4,9 +4,9 @@ javascript exercises
 
 ...
 
-## Taller #1: figuras geométricas
+## workshop #1: geometric figures
 
-- Primer paso: definir las fórmulas
-- Segundo paso: implementar las fórmulas en JavaScript
-- Tercer paso: crear funciones
-- Cuarto paso: integrar JS con HTML
+- First step: define the formulas
+- Second step: implement the formulas in JavaScript
+- Third step: create functions
+- Cuarto paso: integrar JS con HTMLFourth step: integrate JS with HTML
